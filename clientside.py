@@ -1,4 +1,4 @@
-import socket /*imported socket library
+import socket
 import sys
 import time
 
